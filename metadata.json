@@ -1,0 +1,7 @@
+{
+  "name": "MycoHarvest Check",
+  "description": "A comprehensive employee attendance management system with real-time tracking, geolocation, and AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
